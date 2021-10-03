@@ -26,3 +26,61 @@
 2021-30-09 22:54:12   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Input Email' 
 2021-30-09 22:54:12   INFO [pages.LoginPage] : '12345678' was inputted in element  'Input Password' 
 2021-30-09 22:54:14   INFO [pages.LoginPage] :  'Button Sign In'  Element was clicked
+2021-03-10 21:54:56   INFO [loginTest.LoginTest] : ------validLogin was started ------
+2021-03-10 21:55:02   INFO [pages.LoginPage] : Login page was opened
+2021-03-10 21:55:02   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Input Email' 
+2021-03-10 21:55:02   INFO [pages.LoginPage] : '12345678' was inputted in element  'Input Password' 
+2021-03-10 21:55:04   INFO [pages.LoginPage] :  'Button Sign In'  Element was clicked
+2021-03-10 22:00:05   INFO [loginTest.LoginTest] : ------validLogin was started ------
+2021-03-10 22:00:09   INFO [pages.LoginPage] : Login page was opened
+2021-03-10 22:00:10   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Input Email' 
+2021-03-10 22:00:10   INFO [pages.LoginPage] : '12345678' was inputted in element  'Input Password' 
+2021-03-10 22:00:11   INFO [pages.LoginPage] :  'Button Sign In'  Element was clicked
+2021-03-10 22:03:03   INFO [loginTest.LoginTest] : ------validLogin was started ------
+2021-03-10 22:03:07   INFO [pages.LoginPage] : Login page was opened
+2021-03-10 22:03:08   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Input Email' 
+2021-03-10 22:03:08   INFO [pages.LoginPage] : '12345678' was inputted in element  'Input Password' 
+2021-03-10 22:03:09   INFO [pages.LoginPage] :  'Button Sign In'  Element was clicked
+2021-03-10 22:08:32   INFO [loginTest.LoginTest] : ------validLogin was started ------
+2021-03-10 22:08:37   INFO [pages.LoginPage] : Login page was opened
+2021-03-10 22:08:37   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Input Email' 
+2021-03-10 22:08:37   INFO [pages.LoginPage] : '12345678' was inputted in element  'Input Password' 
+2021-03-10 22:08:38   INFO [pages.LoginPage] :  'Button Sign In'  Element was clicked
+2021-03-10 22:13:51   INFO [loginTest.LoginTest] : ------validLogin was started ------
+2021-03-10 22:13:55   INFO [pages.LoginPage] : Login page was opened
+2021-03-10 22:13:55   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Input Email' 
+2021-03-10 22:13:56   INFO [pages.LoginPage] : '12345678' was inputted in element  'Input Password' 
+2021-03-10 22:13:57   INFO [pages.LoginPage] :  'Button Sign In'  Element was clicked
+2021-03-10 22:15:30   INFO [loginTest.LoginTest] : ------validLogin was started ------
+2021-03-10 22:15:34   INFO [pages.LoginPage] : Login page was opened
+2021-03-10 22:15:35   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Input Email' 
+2021-03-10 22:15:35   INFO [pages.LoginPage] : '12345678' was inputted in element  'Input Password' 
+2021-03-10 22:15:36   INFO [pages.LoginPage] :  'Button Sign In'  Element was clicked
+2021-03-10 22:24:17   INFO [loginTest.LoginTest] : ------validLogin was started ------
+2021-03-10 22:24:24   INFO [pages.LoginPage] : Login page was opened
+2021-03-10 22:24:24   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Input Email' 
+2021-03-10 22:24:25   INFO [pages.LoginPage] : '12345678' was inputted in element  'Input Password' 
+2021-03-10 22:24:26   INFO [pages.LoginPage] :  'Button Sign In'  Element was clicked
+2021-03-10 22:43:48   INFO [loginTest.LoginTest] : ------validLogin was started ------
+2021-03-10 22:43:52   INFO [pages.LoginPage] : Login page was opened
+2021-03-10 22:43:52   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Input Email' 
+2021-03-10 22:43:52   INFO [pages.LoginPage] : '12345678' was inputted in element  'Input Password' 
+2021-03-10 22:43:54   INFO [pages.LoginPage] :  'Button Sign In'  Element was clicked
+2021-03-10 23:05:47   INFO [loginTest.LoginTest] : ------validLogin was started ------
+2021-03-10 23:05:51   INFO [pages.LoginPage] : Login page was opened
+2021-03-10 23:05:52   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Input Email' 
+2021-03-10 23:05:52   INFO [pages.LoginPage] : '12345678' was inputted in element  'Input Password' 
+2021-03-10 23:05:53   INFO [pages.LoginPage] :  'Button Sign In'  Element was clicked
+2021-03-10 23:06:04   INFO [newsSubscribing.NewsSubscribing] : ------newsSubscribing was started ------
+2021-03-10 23:06:09   INFO [pages.LoginPage] : Login page was opened
+2021-03-10 23:06:09   INFO [pages.LoginPage] : 'sdsfs@mail.ru' was inputted in element 
+2021-03-10 23:06:09   INFO [pages.LoginPage] :  Element was clicked
+2021-03-10 23:11:28   INFO [newsSubscribing.NewsSubscribing] : ------newsSubscribing was started ------
+2021-03-10 23:11:32   INFO [pages.LoginPage] : Login page was opened
+2021-03-10 23:11:33   INFO [pages.LoginPage] : 'sdsfs@mail.ru' was inputted in element 
+2021-03-10 23:11:33   INFO [pages.LoginPage] :  Element was clicked
+2021-03-10 23:13:13   INFO [loginTest.LoginTest] : ------validLogin was started ------
+2021-03-10 23:13:17   INFO [pages.LoginPage] : Login page was opened
+2021-03-10 23:13:17   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Input Email' 
+2021-03-10 23:13:17   INFO [pages.LoginPage] : '12345678' was inputted in element  'Input Password' 
+2021-03-10 23:13:18   INFO [pages.LoginPage] :  'Button Sign In'  Element was clicked

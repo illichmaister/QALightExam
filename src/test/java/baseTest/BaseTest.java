@@ -10,6 +10,7 @@ import org.junit.rules.TestName;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import pages.AccountPage;
 import pages.LoginPage;
 
 import java.util.concurrent.TimeUnit;
@@ -19,6 +20,7 @@ import static org.hamcrest.CoreMatchers.is;
 public class BaseTest {
     WebDriver webDriver;
     protected LoginPage loginPage;
+    protected AccountPage accountPage;
     protected Logger logger = Logger.getLogger(getClass());
 
     @Rule
@@ -26,10 +28,8 @@ public class BaseTest {
 
     @Before
     public void setUp() {
-//        WebDriverManager.chromedriver().setup();
         logger.info("------" + testName.getMethodName() + " was started ------");
         webDriver = initDriver();
-//        webDriver = new ChromeDriver();
         webDriver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         webDriver.manage().window().maximize();
         loginPage = new LoginPage(webDriver);

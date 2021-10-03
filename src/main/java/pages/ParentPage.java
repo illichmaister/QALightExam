@@ -29,11 +29,12 @@ public abstract class ParentPage {
         PageFactory.initElements(
                 new HtmlElementDecorator(
                         new HtmlElementLocatorFactory(webDriver))
-                ,this);
+                , this);
         webDriverWait10 = new WebDriverWait(webDriver, configProperties.TIME_FOR_DEFAULT_WAIT());
         webDriverWait15 = new WebDriverWait(webDriver, configProperties.TIME_FOR_EXPLICIT_WAIT_LOW());
 
     }
+
     abstract String getRelativeUrl();
 
     protected void checkUrl() {
@@ -43,14 +44,15 @@ public abstract class ParentPage {
         );
     }
 
-    protected void checkUrlWithPattern(){
+    protected void checkUrlWithPattern() {
         Assert.assertThat("Invalid page ",
                 webDriver.getCurrentUrl(),
                 containsString(baseUrl + getRelativeUrl()));
     }
+
     private String getElementName(WebElement webElement) {
         String elementName = "";
-        if (webElement instanceof TypifiedElement){
+        if (webElement instanceof TypifiedElement) {
             elementName = " '" + ((TypifiedElement) webElement).getName() + "' ";
         }
         return elementName;
@@ -67,6 +69,7 @@ public abstract class ParentPage {
 
         }
     }
+
     private void writeErrorAndStopTest(Exception e) {
         logger.error("Cannot work with element " + e);
         Assert.fail("Cannot work with element " + e);
@@ -76,9 +79,26 @@ public abstract class ParentPage {
         try {
             webDriverWait10.until(ExpectedConditions.elementToBeClickable(webElement));
             webElement.click();
-            logger.info(getElementName(webElement)+ " Element was clicked");
+            logger.info(getElementName(webElement) + " Element was clicked");
         } catch (Exception e) {
             writeErrorAndStopTest(e);
         }
+    }
+
+    protected boolean isElementPresent(WebElement webElement) {
+        try {
+            boolean state = webElement.isDisplayed();
+            if (state) {
+                logger.info(getElementName(webElement) + " Element displayed");
+            } else {
+                logger.info(getElementName(webElement) + " Element is not present");
+            }
+            return webElement.isDisplayed();
+
+        } catch (Exception e) {
+            logger.info(getElementName(webElement) + " Element is not present");
+            return false;
+        }
+
     }
 }
