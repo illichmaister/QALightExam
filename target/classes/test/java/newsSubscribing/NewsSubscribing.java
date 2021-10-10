@@ -5,6 +5,7 @@ import libs.TestData;
 import org.junit.Test;
 
 public class NewsSubscribing extends BaseTest {
+
     @Test
     public void newsSubscribing(){
         loginPage.openLoginPage();

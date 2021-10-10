@@ -5,7 +5,7 @@ import libs.TestData;
 import org.junit.Test;
 
 public class LoginTest extends BaseTest {
-//    WebDriver webDriver;
+
     @Test
     public void validLogin(){
         loginPage.openLoginPage();

@@ -84,3 +84,375 @@
 2021-03-10 23:13:17   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Input Email' 
 2021-03-10 23:13:17   INFO [pages.LoginPage] : '12345678' was inputted in element  'Input Password' 
 2021-03-10 23:13:18   INFO [pages.LoginPage] :  'Button Sign In'  Element was clicked
+2021-04-10 13:17:05   INFO [loginTest.LoginTest] : ------validLogin was started ------
+2021-04-10 13:17:16   INFO [pages.LoginPage] : Login page was opened
+2021-04-10 13:17:16   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Input Email' 
+2021-04-10 13:17:16   INFO [pages.LoginPage] : '12345678' was inputted in element  'Input Password' 
+2021-04-10 13:17:17   INFO [pages.LoginPage] :  'Button Sign In'  Element was clicked
+2021-04-10 13:20:17   INFO [loginTest.LoginTest] : ------validLogin was started ------
+2021-04-10 13:20:25   INFO [pages.LoginPage] : Login page was opened
+2021-04-10 13:20:25   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Input Email' 
+2021-04-10 13:20:26   INFO [pages.LoginPage] : '12345678' was inputted in element  'Input Password' 
+2021-04-10 13:20:27   INFO [pages.LoginPage] :  'Button Sign In'  Element was clicked
+2021-04-10 13:20:27   INFO [pages.AccountPage] :  Element displayed
+2021-10-10 18:46:03   INFO [newsSubscribing.NewsSubscribing] : ------newsSubscribing was started ------
+2021-10-10 18:46:09   INFO [pages.LoginPage] : Login page was opened
+2021-10-10 18:46:09   INFO [pages.LoginPage] : 'sdsfs@mail.ru' was inputted in element 
+2021-10-10 18:46:09   INFO [pages.LoginPage] :  Element was clicked
+2021-10-10 18:46:18   INFO [loginTest.LoginTest] : ------validLogin was started ------
+2021-10-10 18:46:22   INFO [pages.LoginPage] : Login page was opened
+2021-10-10 18:46:22   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Input Email' 
+2021-10-10 18:46:22   INFO [pages.LoginPage] : '12345678' was inputted in element  'Input Password' 
+2021-10-10 18:46:22   INFO [pages.LoginPage] :  'Button Sign In'  Element was clicked
+2021-10-10 18:46:23   INFO [pages.AccountPage] :  Element displayed
+2021-10-10 18:56:02   INFO [newsSubscribing.NewsSubscribing] : ------newsSubscribing was started ------
+2021-10-10 18:56:06   INFO [pages.LoginPage] : Login page was opened
+2021-10-10 18:56:06   INFO [pages.LoginPage] : 'sdsfs@mail.ru' was inputted in element 
+2021-10-10 18:56:06   INFO [pages.LoginPage] :  Element was clicked
+2021-10-10 18:58:21   INFO [newsSubscribing.NewsSubscribing] : ------newsSubscribing was started ------
+2021-10-10 18:58:26   INFO [pages.LoginPage] : Login page was opened
+2021-10-10 18:58:26   INFO [pages.LoginPage] : 'sdsfs@mail.ru' was inputted in element 
+2021-10-10 18:58:26   INFO [pages.LoginPage] :  Element was clicked
+2021-10-10 19:01:05   INFO [newsSubscribing.NewsSubscribing] : ------newsSubscribing was started ------
+2021-10-10 19:01:10   INFO [pages.LoginPage] : Login page was opened
+2021-10-10 19:01:10   INFO [pages.LoginPage] : 'sdsfs@mail.ru' was inputted in element 
+2021-10-10 19:01:10   INFO [pages.LoginPage] :  Element was clicked
+2021-10-10 19:02:06   INFO [loginTest.LoginTest] : ------validLogin was started ------
+2021-10-10 19:02:10   INFO [pages.LoginPage] : Login page was opened
+2021-10-10 19:02:11   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Input Email' 
+2021-10-10 19:02:11   INFO [pages.LoginPage] : '12345678' was inputted in element  'Input Password' 
+2021-10-10 19:02:12   INFO [pages.LoginPage] :  'Button Sign In'  Element was clicked
+2021-10-10 19:02:12   INFO [pages.AccountPage] :  Element displayed
+2021-10-10 19:06:22   INFO [newsSubscribing.NewsSubscribing] : ------newsSubscribing was started ------
+2021-10-10 19:06:26   INFO [pages.LoginPage] : Login page was opened
+2021-10-10 19:06:27   INFO [pages.LoginPage] : 'sdsfs@mail.ru' was inputted in element 
+2021-10-10 19:06:27   INFO [pages.LoginPage] :  Element was clicked
+2021-10-10 19:07:22   INFO [newsSubscribing.NewsSubscribing] : ------newsSubscribing was started ------
+2021-10-10 19:07:27   INFO [pages.LoginPage] : Login page was opened
+2021-10-10 19:07:28   INFO [pages.LoginPage] : 'sdsfs@mail.ru' was inputted in element 
+2021-10-10 19:07:28   INFO [pages.LoginPage] :  Element was clicked
+2021-10-10 19:12:02   INFO [newsSubscribing.NewsSubscribing] : ------newsSubscribing was started ------
+2021-10-10 19:12:06   INFO [pages.LoginPage] : Login page was opened
+2021-10-10 19:12:07   INFO [pages.LoginPage] : 'sdsfs@mail.ru' was inputted in element 
+2021-10-10 19:12:07   INFO [pages.LoginPage] :  Element was clicked
+2021-10-10 19:12:17   INFO [newsSubscribing.NewsSubscribing] : ------newsSubscribing was started ------
+2021-10-10 19:12:21   INFO [pages.LoginPage] : Login page was opened
+2021-10-10 19:12:22   INFO [pages.LoginPage] : 'sdsfs@mail.ru' was inputted in element 
+2021-10-10 19:12:23   INFO [pages.LoginPage] :  Element was clicked
+2021-10-10 19:25:48   INFO [addToCartTest.AddToCartTest] : ------addToCart was started ------
+2021-10-10 19:25:52   INFO [pages.LoginPage] : Login page was opened
+2021-10-10 19:25:53   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Input Email' 
+2021-10-10 19:25:53   INFO [pages.LoginPage] : '12345678' was inputted in element  'Input Password' 
+2021-10-10 19:25:53   INFO [pages.LoginPage] :  'Button Sign In'  Element was clicked
+2021-10-10 19:25:54   INFO [pages.LoginPage] : 'Стус' was inputted in element 
+2021-10-10 19:27:02   INFO [addToCartTest.AddToCartTest] : ------addToCart was started ------
+2021-10-10 19:27:07   INFO [pages.LoginPage] : Login page was opened
+2021-10-10 19:27:07   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Input Email' 
+2021-10-10 19:27:07   INFO [pages.LoginPage] : '12345678' was inputted in element  'Input Password' 
+2021-10-10 19:27:09   INFO [pages.LoginPage] :  'Button Sign In'  Element was clicked
+2021-10-10 19:27:09   INFO [pages.LoginPage] : 'Стус' was inputted in element 
+2021-10-10 19:27:18   INFO [addToCartTest.AddToCartTest] : ------addToCart was started ------
+2021-10-10 19:27:22   INFO [pages.LoginPage] : Login page was opened
+2021-10-10 19:27:23   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Input Email' 
+2021-10-10 19:27:23   INFO [pages.LoginPage] : '12345678' was inputted in element  'Input Password' 
+2021-10-10 19:27:24   INFO [pages.LoginPage] :  'Button Sign In'  Element was clicked
+2021-10-10 19:27:24   INFO [pages.LoginPage] : 'Стус' was inputted in element 
+2021-10-10 19:29:39   INFO [addToCartTest.AddToCartTest] : ------addToCart was started ------
+2021-10-10 19:29:43   INFO [pages.LoginPage] : Login page was opened
+2021-10-10 19:29:43   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Input Email' 
+2021-10-10 19:29:43   INFO [pages.LoginPage] : '12345678' was inputted in element  'Input Password' 
+2021-10-10 19:29:44   INFO [pages.LoginPage] :  'Button Sign In'  Element was clicked
+2021-10-10 19:29:45   INFO [pages.LoginPage] : 'Стус' was inputted in element 
+2021-10-10 19:29:46   INFO [pages.LoginPage] :  Element was clicked
+2021-10-10 19:31:52   INFO [addToCartTest.AddToCartTest] : ------addToCart was started ------
+2021-10-10 19:31:56   INFO [pages.LoginPage] : Login page was opened
+2021-10-10 19:31:57   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Input Email' 
+2021-10-10 19:31:57   INFO [pages.LoginPage] : '12345678' was inputted in element  'Input Password' 
+2021-10-10 19:31:58   INFO [pages.LoginPage] :  'Button Sign In'  Element was clicked
+2021-10-10 19:31:58   INFO [pages.LoginPage] : 'Стус' was inputted in element 
+2021-10-10 19:31:59   INFO [pages.LoginPage] :  Element was clicked
+2021-10-10 19:31:59   INFO [pages.LoginPage] :  Element was clicked
+2021-10-10 19:40:34   INFO [addToCartTest.AddToCartTest] : ------addToCart was started ------
+2021-10-10 19:40:38   INFO [pages.LoginPage] : Login page was opened
+2021-10-10 19:40:39   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Input Email' 
+2021-10-10 19:40:39   INFO [pages.LoginPage] : '12345678' was inputted in element  'Input Password' 
+2021-10-10 19:40:40   INFO [pages.LoginPage] :  'Button Sign In'  Element was clicked
+2021-10-10 19:40:40   INFO [pages.LoginPage] : 'Стус' was inputted in element 
+2021-10-10 19:40:41   INFO [pages.LoginPage] :  Element was clicked
+2021-10-10 19:40:41   INFO [pages.LoginPage] :  Element was clicked
+2021-10-10 19:43:44   INFO [addToCartTest.AddToCartTest] : ------addToCart was started ------
+2021-10-10 19:43:48   INFO [pages.LoginPage] : Login page was opened
+2021-10-10 19:43:49   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Input Email' 
+2021-10-10 19:43:49   INFO [pages.LoginPage] : '12345678' was inputted in element  'Input Password' 
+2021-10-10 19:43:50   INFO [pages.LoginPage] :  'Button Sign In'  Element was clicked
+2021-10-10 19:43:50   INFO [pages.LoginPage] : 'Стус' was inputted in element 
+2021-10-10 19:43:51   INFO [pages.LoginPage] :  Element was clicked
+2021-10-10 19:43:51   INFO [pages.LoginPage] :  Element was clicked
+2021-10-10 19:43:53  ERROR [pages.LoginPage] : Cannot work with element org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <div class="header-switch header-cart">...</div> is not clickable at point (1339, 17). Other element would receive the click: <div id="fancybox-overlay" style="background-color: rgb(119, 119, 119); opacity: 0.7; cursor: pointer; height: 1823px; display: block;"></div>
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'daisy-chameleon-vanadium-user762', ip: 'fe80:0:0:0:4bc:4ce4:4da:89fb%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: /var/folders/fm/bzwbj2f15c3...}, goog:chromeOptions: {debuggerAddress: localhost:62312}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: eb13aa0f9d8b4d66f2cff45af1351844
+2021-10-10 19:45:50   INFO [addToCartTest.AddToCartTest] : ------addToCart was started ------
+2021-10-10 19:45:54   INFO [pages.LoginPage] : Login page was opened
+2021-10-10 19:45:55   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Input Email' 
+2021-10-10 19:45:55   INFO [pages.LoginPage] : '12345678' was inputted in element  'Input Password' 
+2021-10-10 19:45:56   INFO [pages.LoginPage] :  'Button Sign In'  Element was clicked
+2021-10-10 19:45:56   INFO [pages.LoginPage] : 'Стус' was inputted in element 
+2021-10-10 19:45:57   INFO [pages.LoginPage] :  Element was clicked
+2021-10-10 19:45:57   INFO [pages.LoginPage] :  Element was clicked
+2021-10-10 19:46:17   INFO [addToCartTest.AddToCartTest] : ------addToCart was started ------
+2021-10-10 19:46:21   INFO [pages.LoginPage] : Login page was opened
+2021-10-10 19:46:21   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Input Email' 
+2021-10-10 19:46:22   INFO [pages.LoginPage] : '12345678' was inputted in element  'Input Password' 
+2021-10-10 19:46:23   INFO [pages.LoginPage] :  'Button Sign In'  Element was clicked
+2021-10-10 19:46:23   INFO [pages.LoginPage] : 'Стус' was inputted in element 
+2021-10-10 19:46:24   INFO [pages.LoginPage] :  Element was clicked
+2021-10-10 19:46:24   INFO [pages.LoginPage] :  Element was clicked
+2021-10-10 19:46:31   INFO [addToCartTest.AddToCartTest] : ------addToCart was started ------
+2021-10-10 19:46:36   INFO [pages.LoginPage] : Login page was opened
+2021-10-10 19:46:36   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Input Email' 
+2021-10-10 19:46:36   INFO [pages.LoginPage] : '12345678' was inputted in element  'Input Password' 
+2021-10-10 19:46:37   INFO [pages.LoginPage] :  'Button Sign In'  Element was clicked
+2021-10-10 19:46:37   INFO [pages.LoginPage] : 'Стус' was inputted in element 
+2021-10-10 19:46:39   INFO [pages.LoginPage] :  Element was clicked
+2021-10-10 19:46:39   INFO [pages.LoginPage] :  Element was clicked
+2021-10-10 19:47:49   INFO [addToCartTest.AddToCartTest] : ------addToCart was started ------
+2021-10-10 19:47:53   INFO [pages.LoginPage] : Login page was opened
+2021-10-10 19:47:53   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Input Email' 
+2021-10-10 19:47:53   INFO [pages.LoginPage] : '12345678' was inputted in element  'Input Password' 
+2021-10-10 19:47:54   INFO [pages.LoginPage] :  'Button Sign In'  Element was clicked
+2021-10-10 19:47:55   INFO [pages.LoginPage] : 'Стус' was inputted in element 
+2021-10-10 19:47:56   INFO [pages.LoginPage] :  Element was clicked
+2021-10-10 19:47:56   INFO [pages.LoginPage] :  Element was clicked
+2021-10-10 19:47:58  ERROR [pages.LoginPage] : Cannot work with element org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <div class="header-switch header-cart">...</div> is not clickable at point (1339, 17). Other element would receive the click: <div id="fancybox-overlay" style="background-color: rgb(119, 119, 119); opacity: 0.7; cursor: pointer; height: 1823px; display: block;"></div>
+  (Session info: chrome=94.0.4606.81)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'daisy-chameleon-vanadium-user762', ip: 'fe80:0:0:0:4bc:4ce4:4da:89fb%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.81, chrome: {chromedriverVersion: 94.0.4606.61 (418b78f5838ed..., userDataDir: /var/folders/fm/bzwbj2f15c3...}, goog:chromeOptions: {debuggerAddress: localhost:63479}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b53c2212766a6993fbe706da4d53120b
+2021-10-10 19:51:46   INFO [addToCartTest.AddToCartTest] : ------addToCart was started ------
+2021-10-10 19:51:50   INFO [pages.LoginPage] : Login page was opened
+2021-10-10 19:51:50   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Input Email' 
+2021-10-10 19:51:50   INFO [pages.LoginPage] : '12345678' was inputted in element  'Input Password' 
+2021-10-10 19:51:51   INFO [pages.LoginPage] :  'Button Sign In'  Element was clicked
+2021-10-10 19:51:51   INFO [pages.LoginPage] : 'Стус' was inputted in element 
+2021-10-10 19:51:52   INFO [pages.LoginPage] :  Element was clicked
+2021-10-10 19:51:53   INFO [pages.LoginPage] :  Element was clicked
+2021-10-10 19:52:23  ERROR [pages.LoginPage] : Cannot work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Close Button (tried for 5 second(s) with 500 milliseconds interval)
+2021-10-10 19:53:56   INFO [newsSubscribing.NewsSubscribing] : ------newsSubscribing was started ------
+2021-10-10 19:54:00   INFO [pages.LoginPage] : Login page was opened
+2021-10-10 19:54:01   INFO [pages.LoginPage] : 'sdsfs@mail.ru' was inputted in element 
+2021-10-10 19:54:02   INFO [pages.LoginPage] :  Element was clicked
+2021-10-10 19:54:09   INFO [addToCartTest.AddToCartTest] : ------addToCart was started ------
+2021-10-10 19:54:13   INFO [pages.LoginPage] : Login page was opened
+2021-10-10 19:54:13   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Input Email' 
+2021-10-10 19:54:14   INFO [pages.LoginPage] : '12345678' was inputted in element  'Input Password' 
+2021-10-10 19:54:16   INFO [pages.LoginPage] :  'Button Sign In'  Element was clicked
+2021-10-10 19:54:16   INFO [pages.LoginPage] : 'Стус' was inputted in element 
+2021-10-10 19:54:17   INFO [pages.LoginPage] :  Element was clicked
+2021-10-10 19:54:17   INFO [pages.LoginPage] :  Element was clicked
+2021-10-10 19:54:18   INFO [pages.LoginPage] :  Element was clicked
+2021-10-10 19:54:19   INFO [pages.LoginPage] :  Element was clicked
+2021-10-10 20:15:43   INFO [addToCartTest.AddToCartTest] : ------addToCart was started ------
+2021-10-10 20:15:47   INFO [pages.LoginPage] : Login page was opened
+2021-10-10 20:15:47   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Input Email' 
+2021-10-10 20:15:47   INFO [pages.LoginPage] : '12345678' was inputted in element  'Input Password' 
+2021-10-10 20:15:47   INFO [pages.LoginPage] :  'Button Sign In'  Element was clicked
+2021-10-10 20:15:48   INFO [pages.LoginPage] : 'Стус' was inputted in element 
+2021-10-10 20:15:49   INFO [pages.LoginPage] :  Element was clicked
+2021-10-10 20:15:50   INFO [pages.LoginPage] :  Element was clicked
+2021-10-10 20:15:50   INFO [pages.LoginPage] :  Element was clicked
+2021-10-10 20:15:51   INFO [pages.LoginPage] :  Element was clicked
+2021-10-10 20:15:52   INFO [pages.LoginPage] : Login page was opened
+2021-10-10 20:15:52   INFO [pages.AccountPage] :  Element displayed
+2021-10-10 20:15:52   INFO [pages.AccountPage] :  Element displayed
+2021-10-10 20:16:07   INFO [addToCartTest.AddToCartTest] : ------addToCart was started ------
+2021-10-10 20:16:12   INFO [pages.LoginPage] : Login page was opened
+2021-10-10 20:16:12   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Input Email' 
+2021-10-10 20:16:12   INFO [pages.LoginPage] : '12345678' was inputted in element  'Input Password' 
+2021-10-10 20:16:13   INFO [pages.LoginPage] :  'Button Sign In'  Element was clicked
+2021-10-10 20:16:13   INFO [pages.LoginPage] : 'Стус' was inputted in element 
+2021-10-10 20:16:14   INFO [pages.LoginPage] :  Element was clicked
+2021-10-10 20:16:14   INFO [pages.LoginPage] :  Element was clicked
+2021-10-10 20:16:15   INFO [pages.LoginPage] :  Element was clicked
+2021-10-10 20:16:16   INFO [pages.LoginPage] :  Element was clicked
+2021-10-10 20:16:17   INFO [pages.LoginPage] : Login page was opened
+2021-10-10 20:16:17   INFO [pages.AccountPage] :  Element displayed
+2021-10-10 20:16:17   INFO [pages.AccountPage] :  Element displayed
+2021-10-10 23:06:39   INFO [addToCartTest.AddToCartTest] : ------addToCart was started ------
+2021-10-10 23:06:44   INFO [pages.LoginPage] : Login page was opened
+2021-10-10 23:06:44   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Input Email' 
+2021-10-10 23:06:44   INFO [pages.LoginPage] : '12345678' was inputted in element  'Input Password' 
+2021-10-10 23:06:45   INFO [pages.LoginPage] :  'Button Sign In'  Element was clicked
+2021-10-10 23:06:45   INFO [pages.LoginPage] : 'Стус' was inputted in element 
+2021-10-10 23:06:46   INFO [pages.LoginPage] :  Element was clicked
+2021-10-10 23:06:46   INFO [pages.LoginPage] :  Element was clicked
+2021-10-10 23:06:47   INFO [pages.LoginPage] :  Element was clicked
+2021-10-10 23:06:48   INFO [pages.LoginPage] :  Element was clicked
+2021-10-10 23:07:08   INFO [addToCartTest.AddToCartTest] : ------addToCart was started ------
+2021-10-10 23:07:12   INFO [pages.LoginPage] : Login page was opened
+2021-10-10 23:07:13   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Input Email' 
+2021-10-10 23:07:13   INFO [pages.LoginPage] : '12345678' was inputted in element  'Input Password' 
+2021-10-10 23:07:14   INFO [pages.LoginPage] :  'Button Sign In'  Element was clicked
+2021-10-10 23:07:14   INFO [pages.LoginPage] : 'Стус' was inputted in element 
+2021-10-10 23:07:15   INFO [pages.LoginPage] :  Element was clicked
+2021-10-10 23:07:15   INFO [pages.LoginPage] :  Element was clicked
+2021-10-10 23:07:16   INFO [pages.LoginPage] :  Element was clicked
+2021-10-10 23:07:17   INFO [pages.LoginPage] :  Element was clicked
+2021-10-10 23:14:11   INFO [changingPasswordTest.ChangingPasswordTest] : ------changingPassword was started ------
+2021-10-10 23:14:15   INFO [pages.LoginPage] : Login page was opened
+2021-10-10 23:14:45   INFO [pages.AccountPage] :  Element is not present
+2021-10-10 23:14:47   INFO [pages.LoginPage] : Login page was opened
+2021-10-10 23:14:47   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Input Email' 
+2021-10-10 23:14:47   INFO [pages.LoginPage] : '12345678' was inputted in element  'Input Password' 
+2021-10-10 23:15:18   INFO [pages.AccountPage] :  Element is not present
+2021-10-10 23:15:59   INFO [changingPasswordTest.ChangingPasswordTest] : ------changingPassword was started ------
+2021-10-10 23:16:03   INFO [pages.LoginPage] : Login page was opened
+2021-10-10 23:16:04   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Input Email' 
+2021-10-10 23:16:04   INFO [pages.LoginPage] : '12345678' was inputted in element  'Input Password' 
+2021-10-10 23:16:34   INFO [pages.AccountPage] :  Element is not present
+2021-10-10 23:18:22   INFO [changingPasswordTest.ChangingPasswordTest] : ------changingPassword was started ------
+2021-10-10 23:18:26   INFO [pages.LoginPage] : Login page was opened
+2021-10-10 23:18:27   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Input Email' 
+2021-10-10 23:18:27   INFO [pages.LoginPage] : '12345678' was inputted in element  'Input Password' 
+2021-10-10 23:18:27   INFO [pages.LoginPage] :  'Button Sign In'  Element was clicked
+2021-10-10 23:18:28   INFO [pages.AccountPage] :  Element displayed
+2021-10-10 23:25:54   INFO [changingPasswordTest.ChangingPasswordTest] : ------changingPassword was started ------
+2021-10-10 23:25:58   INFO [pages.LoginPage] : Login page was opened
+2021-10-10 23:25:59   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Input Email' 
+2021-10-10 23:25:59   INFO [pages.LoginPage] : '12345678' was inputted in element  'Input Password' 
+2021-10-10 23:26:00   INFO [pages.LoginPage] :  'Button Sign In'  Element was clicked
+2021-10-10 23:26:00   INFO [pages.AccountPage] :  Element displayed
+2021-10-10 23:26:01   INFO [pages.AccountPage] :  Element was clicked
+2021-10-10 23:42:39   INFO [changingPasswordTest.ChangingPasswordTest] : ------changingPassword was started ------
+2021-10-10 23:42:43   INFO [pages.LoginPage] : Login page was opened
+2021-10-10 23:42:44   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Input Email' 
+2021-10-10 23:42:44   INFO [pages.LoginPage] : '12345678' was inputted in element  'Input Password' 
+2021-10-10 23:42:45   INFO [pages.LoginPage] :  'Button Sign In'  Element was clicked
+2021-10-10 23:42:45   INFO [pages.AccountPage] :  Element displayed
+2021-10-10 23:42:46   INFO [pages.AccountPage] :  Element was clicked
+2021-10-10 23:42:46   INFO [pages.AccountPage] : '12345678' was inputted in element 
+2021-10-10 23:42:46   INFO [pages.AccountPage] : '12345678' was inputted in element 
+2021-10-10 23:42:46   INFO [pages.AccountPage] : '12345678' was inputted in element 
+2021-10-10 23:45:44   INFO [changingPasswordTest.ChangingPasswordTest] : ------changingPassword was started ------
+2021-10-10 23:45:49   INFO [pages.LoginPage] : Login page was opened
+2021-10-10 23:45:49   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Input Email' 
+2021-10-10 23:45:49   INFO [pages.LoginPage] : '12345678' was inputted in element  'Input Password' 
+2021-10-10 23:45:49   INFO [pages.LoginPage] :  'Button Sign In'  Element was clicked
+2021-10-10 23:45:50   INFO [pages.AccountPage] :  Element displayed
+2021-10-10 23:45:51   INFO [pages.AccountPage] :  Element was clicked
+2021-10-10 23:45:51   INFO [pages.AccountPage] : '12345678' was inputted in element 
+2021-10-10 23:45:51   INFO [pages.AccountPage] : '12345678' was inputted in element 
+2021-10-10 23:45:51   INFO [pages.AccountPage] : '12345678' was inputted in element 
+2021-10-10 23:45:52   INFO [pages.AccountPage] :  Element was clicked
+2021-10-10 23:49:56   INFO [changingPasswordTest.ChangingPasswordTest] : ------changingPassword was started ------
+2021-10-10 23:50:00   INFO [pages.LoginPage] : Login page was opened
+2021-10-10 23:50:01   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Input Email' 
+2021-10-10 23:50:01   INFO [pages.LoginPage] : '12345678' was inputted in element  'Input Password' 
+2021-10-10 23:50:01   INFO [pages.LoginPage] :  'Button Sign In'  Element was clicked
+2021-10-10 23:50:02   INFO [pages.AccountPage] :  Element displayed
+2021-10-10 23:50:03   INFO [pages.AccountPage] :  Element was clicked
+2021-10-10 23:50:03   INFO [pages.AccountPage] : '12345678' was inputted in element 
+2021-10-10 23:50:03   INFO [pages.AccountPage] : '12345678' was inputted in element 
+2021-10-10 23:50:03   INFO [pages.AccountPage] : '12345678' was inputted in element 
+2021-10-10 23:50:04   INFO [pages.AccountPage] :  Element was clicked
+2021-10-10 23:50:42   INFO [changingPasswordTest.ChangingPasswordTest] : ------changingPassword was started ------
+2021-10-10 23:50:47   INFO [pages.LoginPage] : Login page was opened
+2021-10-10 23:50:47   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Input Email' 
+2021-10-10 23:50:47   INFO [pages.LoginPage] : '12345678' was inputted in element  'Input Password' 
+2021-10-10 23:50:48   INFO [pages.LoginPage] :  'Button Sign In'  Element was clicked
+2021-10-10 23:50:48   INFO [pages.AccountPage] :  Element displayed
+2021-10-10 23:50:49   INFO [pages.AccountPage] :  Element was clicked
+2021-10-10 23:50:49   INFO [pages.AccountPage] : '12345678' was inputted in element 
+2021-10-10 23:50:49   INFO [pages.AccountPage] : '12345678' was inputted in element 
+2021-10-10 23:50:49   INFO [pages.AccountPage] : '12345678' was inputted in element 
+2021-10-10 23:50:51   INFO [pages.AccountPage] :  Element was clicked
+2021-11-10 00:29:02   INFO [resetPassword.ResetPassword] : ------resetPassword was started ------
+2021-11-10 00:29:06   INFO [pages.LoginPage] : Login page was opened
+2021-11-10 00:29:07   INFO [pages.LoginPage] :  Element was clicked
+2021-11-10 00:29:07   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Recovery Email Field' 
+2021-11-10 00:29:07   INFO [pages.LoginPage] :  Element was clicked
+2021-11-10 00:34:15   INFO [resetPassword.ResetPassword] : ------resetPassword was started ------
+2021-11-10 00:34:20   INFO [pages.LoginPage] : Login page was opened
+2021-11-10 00:34:20   INFO [pages.LoginPage] :  Element was clicked
+2021-11-10 00:34:20   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Recovery Email Field' 
+2021-11-10 00:34:21   INFO [pages.LoginPage] :  Element was clicked
+2021-11-10 00:37:52   INFO [resetPassword.ResetPassword] : ------resetPassword was started ------
+2021-11-10 00:37:56   INFO [pages.LoginPage] : Login page was opened
+2021-11-10 00:37:56   INFO [pages.LoginPage] :  Element was clicked
+2021-11-10 00:37:57   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Recovery Email Field' 
+2021-11-10 00:37:57   INFO [pages.LoginPage] :  Element was clicked
+2021-11-10 00:50:29   INFO [addToCartTest.AddToCartTest] : ------addToCart was started ------
+2021-11-10 00:50:33   INFO [pages.LoginPage] : Login page was opened
+2021-11-10 00:50:34   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Input Email' 
+2021-11-10 00:50:34   INFO [pages.LoginPage] : '12345678' was inputted in element  'Input Password' 
+2021-11-10 00:50:34   INFO [pages.LoginPage] :  'Button Sign In'  Element was clicked
+2021-11-10 00:50:35   INFO [pages.LoginPage] : 'Стус' was inputted in element 
+2021-11-10 00:50:36   INFO [pages.LoginPage] :  Element was clicked
+2021-11-10 00:50:36   INFO [pages.LoginPage] :  Element was clicked
+2021-11-10 00:50:37   INFO [pages.LoginPage] :  Element was clicked
+2021-11-10 00:50:38   INFO [pages.LoginPage] :  Element was clicked
+2021-11-10 00:52:44   INFO [addToCartTest.AddToCartTest] : ------addToCart was started ------
+2021-11-10 00:52:49   INFO [pages.LoginPage] : Login page was opened
+2021-11-10 00:52:49   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Input Email' 
+2021-11-10 00:52:49   INFO [pages.LoginPage] : '12345678' was inputted in element  'Input Password' 
+2021-11-10 00:52:50   INFO [pages.LoginPage] :  'Button Sign In'  Element was clicked
+2021-11-10 00:52:50   INFO [pages.LoginPage] : 'Стус' was inputted in element 
+2021-11-10 00:52:51   INFO [pages.LoginPage] :  Element was clicked
+2021-11-10 00:52:51   INFO [pages.LoginPage] :  Element was clicked
+2021-11-10 00:52:52   INFO [pages.LoginPage] :  Element was clicked
+2021-11-10 00:52:53   INFO [pages.LoginPage] :  Element was clicked
+2021-11-10 00:53:53   INFO [addToCartTest.AddToCartTest] : ------addToCart was started ------
+2021-11-10 00:53:57   INFO [pages.LoginPage] : Login page was opened
+2021-11-10 00:53:58   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Input Email' 
+2021-11-10 00:53:58   INFO [pages.LoginPage] : '12345678' was inputted in element  'Input Password' 
+2021-11-10 00:53:59   INFO [pages.LoginPage] :  'Button Sign In'  Element was clicked
+2021-11-10 00:53:59   INFO [pages.LoginPage] : 'Стус' was inputted in element 
+2021-11-10 00:54:00   INFO [pages.LoginPage] :  Element was clicked
+2021-11-10 00:54:00   INFO [pages.LoginPage] :  Element was clicked
+2021-11-10 00:54:01   INFO [pages.LoginPage] :  Element was clicked
+2021-11-10 00:54:02   INFO [pages.LoginPage] :  Element was clicked
+2021-11-10 00:54:57   INFO [addToCartTest.AddToCartTest] : ------addToCart was started ------
+2021-11-10 00:55:02   INFO [pages.LoginPage] : Login page was opened
+2021-11-10 00:55:02   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Input Email' 
+2021-11-10 00:55:02   INFO [pages.LoginPage] : '12345678' was inputted in element  'Input Password' 
+2021-11-10 00:55:04   INFO [pages.LoginPage] :  'Button Sign In'  Element was clicked
+2021-11-10 00:55:04   INFO [pages.LoginPage] : 'Стус' was inputted in element 
+2021-11-10 00:55:05   INFO [pages.LoginPage] :  Element was clicked
+2021-11-10 00:55:05   INFO [pages.LoginPage] :  Element was clicked
+2021-11-10 00:55:05   INFO [pages.LoginPage] :  Element was clicked
+2021-11-10 00:55:06   INFO [pages.LoginPage] :  Element was clicked
+2021-11-10 00:55:35   INFO [addToCartTest.AddToCartTest] : ------addToCart was started ------
+2021-11-10 00:55:40   INFO [pages.LoginPage] : Login page was opened
+2021-11-10 00:55:40   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Input Email' 
+2021-11-10 00:55:40   INFO [pages.LoginPage] : '12345678' was inputted in element  'Input Password' 
+2021-11-10 00:55:41   INFO [pages.LoginPage] :  'Button Sign In'  Element was clicked
+2021-11-10 00:55:41   INFO [pages.LoginPage] : 'Стус' was inputted in element 
+2021-11-10 00:55:42   INFO [pages.LoginPage] :  Element was clicked
+2021-11-10 00:55:42   INFO [pages.LoginPage] :  Element was clicked
+2021-11-10 00:55:43   INFO [pages.LoginPage] :  Element was clicked
+2021-11-10 00:55:44   INFO [pages.LoginPage] :  Element was clicked
+2021-11-10 00:58:46   INFO [addToCartTest.AddToCartTest] : ------addToCart was started ------
+2021-11-10 00:58:51   INFO [pages.LoginPage] : Login page was opened
+2021-11-10 00:58:51   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Input Email' 
+2021-11-10 00:58:51   INFO [pages.LoginPage] : '12345678' was inputted in element  'Input Password' 
+2021-11-10 00:58:51   INFO [pages.LoginPage] :  'Button Sign In'  Element was clicked
+2021-11-10 00:58:52   INFO [pages.LoginPage] : 'Стус' was inputted in element 
+2021-11-10 00:58:53   INFO [pages.LoginPage] :  Element was clicked
+2021-11-10 00:58:53   INFO [pages.LoginPage] :  Element was clicked
+2021-11-10 00:58:54   INFO [pages.LoginPage] :  Element was clicked
+2021-11-10 00:58:55   INFO [pages.LoginPage] :  Element was clicked
+2021-11-10 00:59:07   INFO [addToCartTest.AddToCartTest] : ------addToCart was started ------
+2021-11-10 00:59:11   INFO [pages.LoginPage] : Login page was opened
+2021-11-10 00:59:11   INFO [pages.LoginPage] : 'illichmaister@gmail.com' was inputted in element  'Input Email' 
+2021-11-10 00:59:11   INFO [pages.LoginPage] : '12345678' was inputted in element  'Input Password' 
+2021-11-10 00:59:11   INFO [pages.LoginPage] :  'Button Sign In'  Element was clicked
+2021-11-10 00:59:13   INFO [pages.LoginPage] : 'Стус' was inputted in element 
+2021-11-10 00:59:14   INFO [pages.LoginPage] :  Element was clicked
+2021-11-10 00:59:14   INFO [pages.LoginPage] :  Element was clicked
+2021-11-10 00:59:15   INFO [pages.LoginPage] :  Element was clicked
+2021-11-10 00:59:16   INFO [pages.LoginPage] :  Element was clicked

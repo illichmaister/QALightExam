@@ -1,6 +1,7 @@
 package baseTest;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
+//import newsSubscribing.NewsSubscribing;
 import org.apache.log4j.Logger;
 import org.junit.After;
 import org.junit.Assert;
@@ -21,6 +22,7 @@ public class BaseTest {
     WebDriver webDriver;
     protected LoginPage loginPage;
     protected AccountPage accountPage;
+//    protected NewsSubscribing newsSubscribing;
     protected Logger logger = Logger.getLogger(getClass());
 
     @Rule
@@ -33,6 +35,8 @@ public class BaseTest {
         webDriver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         webDriver.manage().window().maximize();
         loginPage = new LoginPage(webDriver);
+        accountPage = new AccountPage(webDriver);
+
     }
 
     @After
